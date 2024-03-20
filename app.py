@@ -4,7 +4,7 @@ import streamlit as st
 import pickle as pk
 
 ## loading the Random Forest Classifier Model
-with open("random_forest_model.pkl",'rb') as model_file:
+with open("models/random_forest_model.pkl",'rb') as model_file:
     rfc = pk.load(model_file)
 
 st.set_page_config(
