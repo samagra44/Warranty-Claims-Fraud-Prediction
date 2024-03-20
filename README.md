@@ -74,6 +74,12 @@ pip install -r requirements.txt
 ```
 streamlit run app.py
 ```
+## Output
+
+<p align="center">
+<img src="https://github.com/samagra44/Warranty-Claims-Fraud-Prediction/assets/77968722/c44c20b2-8630-4a98-8948-14a303b22416" width=700 height=300 alt="animated"/>
+</p>
+
 ## Acknowledgments
 
 - This dataset is sourced from Kaggle [Warranty Claims Dataset](https://www.kaggle.com/competitions/warranty-claims/data).
