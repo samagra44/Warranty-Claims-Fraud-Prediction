@@ -70,6 +70,10 @@ pip install -r requirements.txt
 
 4. Alternatively, use the pre-trained models in the `models` directory for prediction on new data.
 
+5. Run the application:
+```
+streamlit run app.py
+```
 ## Acknowledgments
 
-- This dataset is sourced from [Warranty Claims Dataset](https://www.kaggle.com/competitions/warranty-claims/data).
+- This dataset is sourced from Kaggle [Warranty Claims Dataset](https://www.kaggle.com/competitions/warranty-claims/data).
